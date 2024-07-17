@@ -1,2 +1,2 @@
-# modern-data-lake
-Building a modern data lake with Dremio, Spark, Iceberg and MinIO
+# modern-data-lakehouse
+Building a modern data lakehouse with Dremio, Spark, Iceberg and MinIO
